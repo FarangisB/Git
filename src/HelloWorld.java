@@ -4,6 +4,8 @@ public class HelloWorld {
 
         System.out.println("My name is Farangis. Nice to meet you!");
 
+        System.out.println("We are doing great");
+
 
     }
 
